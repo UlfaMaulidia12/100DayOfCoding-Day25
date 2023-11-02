@@ -112,3 +112,11 @@ public class KalkulatorPajak {
         }
     }
 }
+
+//Program "Kalkulator Pajak Bisnis" adalah program sederhana yang menghitung pajak tahunan untuk bisnis berdasarkan penghasilan dan tarif pajak. 
+program ini akan meminta kita untuk memasukkan dua hal hal yaitu berapa banyak uang yang kita hasilkan per tahun dan berapa tarif pajaknya.
+Setelah kita masukkan data ini, program akan memeriksa apakah tarif pajak yang kita masukkan berada dalam rentang yang benar (antara 0% dan 100%). Jika tidak, program akan memberi tahu kita bahwa kita harus memasukkan tarif yang benar.
+Selanjutnya, program akan bertanya kepada kita jenis pajak apa yang ingin kita hitung. Ada tiga jenis pajak yang dapat kita pilih.
+Program akan menghitung jumlah pajak berdasarkan pilihan kita, penghasilan tahunan, dan tarif pajak.
+terakhir, program akan menunjukkan hasilnya yaitu, jumlah penghasilan tahunan, tarif pajak, dan jumlah pajak dalam bentuk uang yang biasa kita gunakan dan
+Program akan bertanya apakah kita ingin menghitung pajak lagi. Jika ya, kita dapat mengulanginya; jika tidak, kita selesai//
